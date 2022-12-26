@@ -1,5 +1,3 @@
-Hola Mundo 
+Hola Mundo
 
-vamos a hacer el 2 commit
-
-vamos a incorporar el archivo de tipo html y la carpeta css con su archivo.
+regresamos a la primera version del archivo, borrando todos sus modificaciones creadas.
